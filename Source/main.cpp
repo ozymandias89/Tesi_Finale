@@ -18,7 +18,8 @@
  *
  * -----------------x-----------------------------------------------------------
  */
-//aaaaaaaaaaaa
+
+
 #include "generator.h"
 #include <sstream>
 #include <time.h>
@@ -27,7 +28,6 @@
 #include "ThirdProblem.cpp"
 
 int main(int argc, char const *argv[]) {
-
 	// --------------------------------------------------
 	// 1. Parameters (generate problem)
 	// --------------------------------------------------
